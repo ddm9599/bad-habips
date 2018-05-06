@@ -1,8 +1,6 @@
 Contact Info: 
 Daniel Mitchell
-(585)-683-8226 [Please text before calling]
 ddm9599@rit.edu
-dandaman147@gmail.com
 
 Notes:
 	-I fixed the trace-cutting issues on both boards (populated and unpopulated). I would definitely
